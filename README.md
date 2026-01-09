@@ -1,4 +1,4 @@
-# Analyse-des-performances-d-une-entreprise-de-vente-au-d-tail
+# Analyse des performances commerciales d’une entreprise de retail
 
 Dans ce projet, je me place dans le rôle d’**analyste de données pour une grande entreprise de vente au détail opérant à l’international.**
 
